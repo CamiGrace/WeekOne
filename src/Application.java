@@ -23,6 +23,7 @@ public class Application {
 				System.out.println("The person's middle initial is:" + middleInitial);
 				System.out.println("It is hot outside:" + isHotOutside);
 				System.out.println("The Customer's first name is:" + customerFirstName);
+
 				System.out.println("The person lives:" +  streetAddress);
 	} 
 	}
